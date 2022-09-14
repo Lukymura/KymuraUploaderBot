@@ -3,6 +3,7 @@
 > Telegram bot that can upload videos, images and animations to the telegra.ph
 ----
 
+<p align="center"><a href="https://t.me/Kyyomasaa"><img src="https://telegra.ph/file/fee19afb12da12d389fc3.jpg" width="400"></a></p>
     
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
