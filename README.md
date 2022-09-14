@@ -59,7 +59,7 @@ If any errors you should fix it yourself!!</pre>
  • <a href="https://github.com/Lukymura">Lukymura</a> <br>
  • <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> 
   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lukymura/feedback-bot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Lukymura)   
 
 > Made with 💞 by <a href="https://github.com/Lukymura">@Lukymura</a> 
    
